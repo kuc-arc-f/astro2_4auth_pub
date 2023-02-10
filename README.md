@@ -1,4 +1,4 @@
-﻿# astro2_4auth
+﻿# astro2_4auth_pub
 
  Version: 0.9.1
 
@@ -6,7 +6,7 @@
 
  date    : 2023/02/08 
 
- update  :
+ update  : 2023/02/10
 
 ***
 ### Summary
@@ -45,6 +45,8 @@ yarn build
 
 ***
 ### blog
+
+https://zenn.dev/knaka0209/articles/bed4aedd10298a
 
 ***
 
